@@ -1,0 +1,28 @@
+.red{
+    height: 0.17rem;
+    width: 3rem;
+    background-color: red;
+    margin-left: 2rem;
+
+}
+.card{
+    height: 14rem;
+    margin: 4rem 2rem;
+    background-color: #FFFF;
+    width: 16rem;
+
+}
+.card h5{
+    color: #252B42;
+}
+.card p{
+    color: #737373;
+    text-align: left;
+    margin:1rem 2rem;
+}
+h5{
+    font-size: 1rem;
+    align-items: end;
+    display: flex;
+    margin: 2rem 2rem 1rem;
+}

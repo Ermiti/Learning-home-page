@@ -1,0 +1,85 @@
+.App{
+  background-color: #252B42;
+
+}
+
+#p{
+  text-align: center;
+  font-size: 1rem;
+  color: #23A6F0;
+
+}
+.white
+{
+  color: white;
+}
+.body{
+  margin: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+
+}
+.btns{
+  gap: 1rem;
+  display: flex;
+  margin: 2rem 40% ;
+
+}
+.btns button{
+  width: 9rem;
+  height: 2.5rem;
+
+}
+#h1{
+  font-size: 4rem;
+  margin-top: 0rem;
+  max-width: 40rem;
+}
+.discription{
+max-width: 22rem;
+}
+#btn-one, #btn-twe{
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 0.3rem;
+}
+.btn-one{
+ background-color: #23A6F0;
+ color: #FFFF;
+ border: none;
+}
+#btn-twe{
+border: 0.1rem solid #23A6F0 ;
+background-color: #252B42;
+color: #23A6F0;
+}
+.cards{
+  display: flex;
+
+}
+.header{
+  display: flex;
+  color: #FFFF;
+  margin: 0rem 16rem;
+  gap: 8rem;
+  margin-right: 9rem;
+}
+.header div {
+  display: flex;
+  gap: 2rem;
+}
+.header h5{
+  margin: auto;
+}
+.btn-header{
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 0.3rem;
+  height: 2rem;
+  margin: auto;
+
+}
